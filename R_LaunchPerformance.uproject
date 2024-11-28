@@ -38,10 +38,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "LiveLinkViconDataStream",
-			"Enabled": true
-		},
-		{
 			"Name": "LiveLinkOverNDisplay",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
